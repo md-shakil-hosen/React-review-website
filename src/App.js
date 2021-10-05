@@ -6,9 +6,8 @@ import Error from './components/Error/Error';
 import Footer from './components/Footer/Footer';
 import Header from './components/Header/Header';
 import Home from './components/Home/Home';
-import Login from './components/Login/Login';
 import Service from './components/Service/Service';
-import SignIn from './components/SignIn/SignIn';
+import Study from './components/Study/Study';
 
 function App() {
   return (
@@ -22,17 +21,14 @@ function App() {
           <Route path="/home">
             <Home></Home>
           </Route>
+          <Route path="/Study">
+            <Study></Study>
+          </Route>
           <Route path="/about">
             <About></About>
           </Route>
           <Route path="/services">
             <Service></Service>
-          </Route>
-          <Route path="/sign">
-            <SignIn></SignIn>
-          </Route>
-          <Route path="/log">
-            <Login></Login>
           </Route>
           <Route path="*">
             <Error></Error>

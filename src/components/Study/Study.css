@@ -1,0 +1,18 @@
+.study{
+  width: 50%;
+  margin-left: 300px;
+
+}
+.study-head{
+    font-size: 3rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 20px;
+    font-weight: 500;
+}
+.shadow{
+    border: none;
+    color: #262562;
+    font-size: 20px;
+    font-weight: 500;
+    border-radius: 5px;
+}

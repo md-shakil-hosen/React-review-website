@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="bg-custom text-light text-center pt-5 cusFooter">
             <Container className="footerGrid">
                 <div>
-                    <h3 className="text-start">SOL</h3>
+                    <h3 className="text-start text-danger">SOL</h3>
                     <ul className="d-block p-0 m-0">
                         <Link to="/facebook">Facebook</Link> <br />
                         <Link to="/facebook">YouTube</Link> <br />
@@ -16,7 +16,7 @@ const Footer = () => {
                     </ul>
                 </div>
                 <div>
-                    <h3 className="text-start">Company</h3>
+                    <h3 className="text-start text-danger">Company</h3>
                     <ul className="d-block p-0 m-0">
                         <li>Privacy policy</li>
                         <li>Terms of use</li>
@@ -24,7 +24,7 @@ const Footer = () => {
                     </ul>
                 </div>
                 <div>
-                    <h3 className="text-start">Crash Course</h3>
+                    <h3 className="text-start text-danger">Crash Course</h3>
                     <ul className="d-block p-0 m-0">
                         <li>SSC Crash Course 2022</li>
                         <li>HSC Crash Course 2021</li>
@@ -33,7 +33,7 @@ const Footer = () => {
                     </ul>
                 </div>
                 <div>
-                    <h3 className="text-start">Popular</h3>
+                    <h3 className="text-start text-danger">Popular</h3>
                     <ul className="d-block p-0 m-0">
                         <li>English Grammar</li>
                         <li>Microsoft PowerPoint</li>

@@ -5,6 +5,7 @@ const AllService = (props) => {
   const { name, img, description } = props.service
   return (
     <Col>
+      {/* Card Style  */}
       <Card style={{
         margin: '2px',
         width: '18rem',
