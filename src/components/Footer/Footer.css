@@ -1,0 +1,9 @@
+.footerGrid{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-gap: 7px;
+    text-align: start;
+}
+.bg-custom{
+ background: #1e1c27;
+}

@@ -1,0 +1,21 @@
+.text-span{
+    font-size:40px;
+    color:#ff294f;
+}
+.background{
+    min-height: 70vh;
+    background-color: #f7f8fa;
+
+}
+h1{
+color: #3f3f3f;
+}
+.fw-bold{
+    font-size: 40px;
+    text-transform: uppercase;
+}
+@media only screen and (max-width: 600px) {
+    .imgHover{
+        display: none;
+    }
+  }

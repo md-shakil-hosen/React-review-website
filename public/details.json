@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "img": "https://cdn.10minuteschool.com/images%2Fskills%2Fjpeg%2FMicrosoft-Excel-Beginner-to-Expert---Title-Thumbnail.jpg",
+        "name": "Rasel Mahmud",
+        "description": "Microsoft Excel."
+    },
+    {
+        "id": 2,
+        "img": "https://cdn.10minuteschool.com/images/skills/thumbnails-v3/Programming-for-Kids---Title-Thumbnail.jpg",
+        "name": "Prepty Rahman",
+        "description": "Programming For Kids"
+    },
+    {
+        "id": 3,
+        "img": "https://cdn.10minuteschool.com/images%2Fskills%2Fjpeg%2FGhore-Boshe-Freelancing---Title-thumbnail.jpg",
+        "name": "Joeta Benarje",
+        "description": "Gore Boshe Freelancing."
+    },
+    {
+        "id": 4,
+        "img": "https://cdn.10minuteschool.com/images/skills/thumbnails-v3/Cartoon%20Animation_Landscape.jpg",
+        "name": " Antik Mahmud",
+        "description": "Carton Animation"
+    },
+    {
+        "id": 5,
+        "img": "https://cdn.10minuteschool.com/images%2Fskills%2Fjpeg%2FWedding-Photography---Title-Thumbnail.jpg",
+        "name": " Prito Reza",
+        "description": "Weeding Photography"
+    },
+    {
+        "id": 6,
+        "img": "https://cdn.10minuteschool.com/images/skills/thumbnails-v3/Communication%20Secrets_Landscape.jpg",
+        "name": "Ezajur Raahman",
+        "description": "Communication Secret."
+    },
+    {
+        "id": 7,
+        "img": "https://cdn.10minuteschool.com/images/skills/thumbnails-v3/Negotiations%20Skills_Landscape.jpg",
+        "name": " Eizajur Rahman",
+        "description": "Negotiation Skill."
+    },
+    {
+        "id": 8,
+        "img": "https://cdn.10minuteschool.com/images/skills/thumb/Career-Guidance--Title-Thumbnail.jpg",
+        "name": " Don Sumadany",
+        "description": "Career Guidances."
+    },
+    {
+        "id": 9,
+        "img": "https://cdn.10minuteschool.com/images/skills/jpeg/Trade%20Sales%20-%20Title%20thumbnail.jpg",
+        "name": "Razib Ahmmed",
+        "description": "Tread Seals"
+    }
+]

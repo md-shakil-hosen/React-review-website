@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "img": "https://cdn.10minuteschool.com/images%2Fskills%2Fjpeg%2FWeb-Design---Title-Thumbnail.jpg",
+        "name": "Reza Korim",
+        "description": "Web Design."
+    },
+    {
+        "id": 2,
+        "img": "https://cdn.10minuteschool.com/images/skills/jpeg/Effective-Medicine---Title-thumbnail.jpg",
+        "name": "Razib Ahmed",
+        "description": "Medicine Selling"
+    },
+    {
+        "id": 3,
+        "img": "https://cdn.10minuteschool.com/images/skills/thumbnails-v3/Graphic%20Designing%20w.%20PPPT_Landscape.jpg",
+        "name": "Anisha Taznoor",
+        "description": "Graphic Designer."
+    },
+    {
+        "id": 4,
+        "img": "https://cdn.10minuteschool.com/images/skills/thumbnails-v3/BCS-Preli_Landscape.jpg",
+        "name": " BCS Preli",
+        "description": "Preparation for BCS"
+    }
+]

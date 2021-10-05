@@ -1,0 +1,28 @@
+.topHeader{
+    position: fixed;
+    top: 0%;
+}
+.navbar{
+    background-color:#efefef;
+}
+.nabLink{
+    background-color: #ff294f;
+    color: rgb(168, 114, 114);
+    padding: 5px 15px;
+    border-radius: 5px;
+}
+.nabLink:hover{
+    background-color:#ff2950d5 ;
+}
+#reg{
+    background-color: #ff294f;
+    padding: 5px 15px;
+    border-radius: 5px;
+    color: white;
+    border: none;
+}
+.brand-name{
+    color: #ff294f;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-weight: 700;
+}
